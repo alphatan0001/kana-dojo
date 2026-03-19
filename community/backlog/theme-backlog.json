@@ -1769,7 +1769,7 @@
     "mainColor": "oklch(52.0% 0.070 80.0 / 1)",
     "secondaryColor": "oklch(65.0% 0.045 60.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": "inkstone",
@@ -1779,7 +1779,7 @@
     "mainColor": "oklch(78.0% 0.040 230.0 / 1)",
     "secondaryColor": "oklch(50.0% 0.030 255.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": "kumo-sky",
@@ -1788,7 +1788,7 @@
     "backgroundColor": "oklch(90.0% 0.020 220.0 / 1)",
     "mainColor": "oklch(60.0% 0.090 215.0 / 1)",
     "secondaryColor": "oklch(70.0% 0.060 200.0 / 1)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
